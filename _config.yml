@@ -1,8 +1,8 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://www.taptap.com/" target="_blank">welcome_message_link</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
+title: Red
+subtitle: 海洋饼干
+welcome_message: <a href="https://www.taptap.com/" target="_blank">TapTap发现好游戏</a>
+description: Maybe i will write something here
 creator: <a href="https://github.com/MonkeyKingSunWuKong">@LiKing</a>
 
 url: "http://vno.onevcat.com"
@@ -21,8 +21,8 @@ blog_button:
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
-    # - {title: Another Button, description: A button, url: 'http://example.com'}
+    - {title: Games, description: My Projects, url: 'https://www.taptap.com/'}
+    - {title: Another Button, description: A button, url: 'http://baidu.com'}
 
 # Pagination
 gems: [jekyll-paginate]

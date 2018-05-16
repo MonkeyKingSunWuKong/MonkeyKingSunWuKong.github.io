@@ -1,10 +1,7 @@
-# Encoding
-encoding: utf-8
-markdown: rdiscount
 # Basic
 title: Red
-subtitle: º£Ñó±ı¸É
-welcome_message: <a href="https://www.taptap.com/" target="_blank">TapTap·¢ÏÖºÃÓÎÏ·</a>
+subtitle: æµ·æ´‹é¥¼å¹²
+welcome_message: <a href="https://www.taptap.com/" target="_blank">TapTapå‘ç°å¥½æ¸¸æˆ</a>
 description: Maybe i will write something here
 creator: <a href="https://github.com/MonkeyKingSunWuKong">@LiKing</a>
 

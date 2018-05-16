@@ -1,5 +1,6 @@
 # Encoding
 encoding: utf-8
+markdown: rdiscount
 # Basic
 title: Red
 subtitle: º£Ñó±ý¸É

@@ -46,3 +46,6 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
+    
+# Baidu Analytics
+baidu-analysis: 0a44cdaa948deefa2719fa84d1e98cf7
